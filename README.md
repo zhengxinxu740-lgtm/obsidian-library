@@ -23,6 +23,18 @@
 
 ---
 
+## 📷 截图
+
+| 网格视图 | 列表视图 |
+| --- | --- |
+| ![网格视图](screenshots/grid-view.png) | ![列表视图](screenshots/list-view.png) |
+
+| 统计面板 | 编辑弹窗 |
+| --- | --- |
+| ![统计面板](screenshots/stats.png) | ![编辑弹窗](screenshots/edit-modal.png) |
+
+---
+
 ## 🚀 安装
 
 ### 方式一：手动安装（推荐）
