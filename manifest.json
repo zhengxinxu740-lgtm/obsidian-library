@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-library",
+  "name": "资料库 Library",
+  "version": "1.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "电子书与论文资料库：多格式导入、分类筛选、阅读进度、网格与列表视图。",
+  "author": "MEC",
+  "isDesktopOnly": true
+}

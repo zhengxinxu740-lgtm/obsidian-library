@@ -1,0 +1,17 @@
+# 插件运行时数据（用户个人设置，勿提交）
+data.json
+
+# 依赖与构建产物
+node_modules/
+dist/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 备份与临时文件
+backups/
+*.zip
+work/
